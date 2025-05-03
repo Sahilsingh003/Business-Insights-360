@@ -33,56 +33,51 @@ This project covers:
 
 Here’s a look at the data model powering the dashboards:
 
-![Data Model](Screenshot%202025-05-02%20151331.png)
+![Data Model](https://github.com/Sahilsingh003/Business-Insights-360/blob/f74e867ddf72a1d277632c08d2f3a26feffcaba1/Dashboard%20Image/Data%20model.png)
 
 ---
 
 ## 📊 Dashboard Pages
 
 ## Home Page 
-
+Landing Page of the Dashboard 
+![Home Page](https://github.com/Sahilsingh003/Business-Insights-360/blob/f74e867ddf72a1d277632c08d2f3a26feffcaba1/Dashboard%20Image/Home_page-0001.jpg)
 
 ### 💰 Finance View
 Get  P & L statement for any customer / product / country or aggregation of the above over any time period and More.
 
-![Finance View]([https://github.com/Sahilsingh003/Business-Insights-360/blob/2b69d74ffdf48b19d2380e341c69d658ffb33904/finanace_page-0001.jpg])
+![Finance View](https://github.com/Sahilsingh003/Business-Insights-360/blob/f74e867ddf72a1d277632c08d2f3a26feffcaba1/Dashboard%20Image/finanace_page-0001.jpg)
 
 ---
 
 ### 💼 Sales View
-Understand customer-level sales performance across different regions and years. Includes trends, comparisons, and top contributors.
+Analyze the performance of your customer(s) over key metrics like Net Sales, Gross Margin and view the same in profitability / Growth matrix.
 
-![Sales View](INSERT_IMAGE_LINK_HERE)
+
+![Sales View](https://github.com/Sahilsingh003/Business-Insights-360/blob/f74e867ddf72a1d277632c08d2f3a26feffcaba1/Dashboard%20Image/Sales_page-0001.jpg)
 
 ---
 
 ### 📣 Marketing View
-Analyze marketing-driven growth. Includes product performance, market share trends, and segmentation insights.
+Analyze the performance of your product(s) over key metrics like Net Sales, Gross Margin and view the same in profitability / Growth matrix.
 
-![Marketing View](INSERT_IMAGE_LINK_HERE)
+![Marketing View](https://github.com/Sahilsingh003/Business-Insights-360/blob/f74e867ddf72a1d277632c08d2f3a26feffcaba1/Dashboard%20Image/Marketing_page-0001.jpg)
 
 ---
 
 ### 🚚 Supply Chain View
-Track forecast accuracy, net errors, and identify risks like excess inventory (EI) and out-of-stock (OOS) situations.
+Get Forecast Accuracy, Net Error and risk profile for product, segment, category, customer etc.
 
-![Supply Chain View](INSERT_IMAGE_LINK_HERE)
+
+![Supply Chain View](https://github.com/Sahilsingh003/Business-Insights-360/blob/f74e867ddf72a1d277632c08d2f3a26feffcaba1/Dashboard%20Image/supply%20chain_page-0001.jpg)
 
 ---
 
 ### 🧑‍💼 Executive View
-Summarizes all core metrics in one place – revenue, margin, net profit, and KPIs vs targets – for high-level decision-making.
+A top level dashboard for executives consolidating top insights from all dimensions of business.
 
-![Executive View](INSERT_IMAGE_LINK_HERE)
+![Executive View](https://github.com/Sahilsingh003/Business-Insights-360/blob/f74e867ddf72a1d277632c08d2f3a26feffcaba1/Dashboard%20Image/executive%20view_page-0001.jpg)
 
----
-
-## 📈 Key Business Metrics
-
-- **Net Sales:** $3.74B
-- **Gross Margin:** 38.1%
-- **Net Profit:** -13.98%
-- **Forecast Accuracy:** 81.17%
 
 ---
 
@@ -95,21 +90,17 @@ Summarizes all core metrics in one place – revenue, margin, net profit, and KP
 
 ---
 
-## 📁 Project Files
-
-- Power BI Report (.pbix)
-- Supporting Excel files
-- Presentation deck (optional)
-- Screenshots of each page
-
----
-
 ## 🙌 Credits
 
-Huge thanks to **Codebasics** and the **Power BI course instructors** for this amazing learning opportunity. This project helped me move from theory to practical, hands-on Power BI experience.
+A heartfelt thank you to Dhaval Patel Sir, Hemanand Vadivel Sir, and the entire Codebasics team for building such an amazing learning ecosystem that bridges the gap between theory and real-world application. Your guidance has truly transformed the way I look at data.
 
 ---
 
 ## 📬 Feedback
 
 If you have suggestions, ideas, or feedback, feel free to raise an issue or connect with me here on GitHub or LinkedIn!
+
+## 🔗 Useful Links
+
+- 🔗 [LinkedIn Project Post](PASTE_YOUR_LINKEDIN_POST_URL_HERE)
+- 📹 [Video Presentation](PASTE_YOUR_VIDEO_PRESENTATION_LINK_HERE)
