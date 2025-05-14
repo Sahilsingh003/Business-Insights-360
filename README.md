@@ -102,5 +102,5 @@ If you have suggestions, ideas, or feedback, feel free to raise an issue or conn
 
 ## 🔗 Useful Links
 
-- 🔗 [LinkedIn Project Post](PASTE_YOUR_LINKEDIN_POST_URL_HERE)
-- 📹 [Video Presentation](PASTE_YOUR_VIDEO_PRESENTATION_LINK_HERE)
+- 🔗 [LinkedIn Project Post](https://www.linkedin.com/posts/sahilsingh003_codebasics-powerbi-sql-activity-7324343206127554560-C4YS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC4e5KMB3WDuHlmQPo1n0CJsAtC3EbWyG5A)
+- 📹 [Video Presentation](https://www.linkedin.com/posts/sahilsingh003_codebasics-powerbi-sql-activity-7324343206127554560-C4YS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC4e5KMB3WDuHlmQPo1n0CJsAtC3EbWyG5A)
